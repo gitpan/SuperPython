@@ -36,7 +36,9 @@ and Associates.
 
 =head1 FUTURE WORK
 
-There is no reason why Python itself 
+There is no reason why Python itself could not take advantage of the
+benefits of SuperPython's improved syntax.  I look forward to working
+with the Python community to port this module to work with Python.
 
 =head1 AUTHOR
 
@@ -50,7 +52,7 @@ python(1).
 
 package SuperPython;
 
-$VERSION = 0.9;
+$VERSION = 0.91;
 
 use Filter::Simple sub 
 {
